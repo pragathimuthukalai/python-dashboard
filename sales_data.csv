@@ -1,0 +1,11 @@
+Date,Region,Product,Sales,Profit,Quantity
+2026-01-01,South,Phone,5000,800,10
+2026-01-02,North,Laptop,12000,2000,5
+2026-01-03,East,Tablet,7000,1200,8
+2026-01-04,West,Phone,4500,700,9
+2026-01-05,South,Laptop,15000,2500,6
+2026-01-06,East,Phone,5200,900,11
+2026-01-07,North,Tablet,6800,1100,7
+2026-01-08,West,Laptop,13000,2100,4
+2026-01-09,South,Tablet,7500,1300,9
+2026-01-10,East,Laptop,16000,2700,6
